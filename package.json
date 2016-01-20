@@ -1,0 +1,22 @@
+{
+  "name": "bbc_scrape",
+  "version": "1.0.0",
+  "description": "scrape the BBC News page",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbmlaird/bbcScrape.git"
+  },
+  "author": "Josh Laird <jbmlaird@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbmlaird/bbcScrape/issues"
+  },
+  "homepage": "https://github.com/jbmlaird/bbcScrape#readme",
+  "dependencies": {
+    "x-ray": "^2.0.3"
+  }
+}
